@@ -1,5 +1,20 @@
 
 
-#btn: HOVER{
+#btn{
 	cursor:pointer;
+	color: blue;
+}
+
+#btn:HOVER{
+	color: red;
+	
+}
+
+html{
+	color: green;
+	
+}
+
+#eingabe{
+	color: red;
 }
